@@ -58,7 +58,7 @@ text-align: center;
 }
 
 #landicon {
-background: url(pod-one-icon.png) no-repeat center center;
+background: url(/css/pod-one-icon.png) no-repeat center center;
 height: 600px;
 width: 600px;
 }
