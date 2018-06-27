@@ -19,6 +19,12 @@ width: 100%;
 max-width: 600px;
 }
 
+#landwrap { 
+margin: 0 auto;
+width: 100%;
+max-width: 600px;
+}
+
 #header {
 height: 140px;
 }
@@ -50,6 +56,13 @@ color: #295287;
 padding: 20px 30px;
 text-align: center;
 }
+
+#landicon {
+background: url(pod-one-icon.png) no-repeat center center;
+height: 600px;
+width: 600px;
+}
+
 .left { float: left; }
 .right { float: right; }
 .clear { clear: both; }
