@@ -1,0 +1,68 @@
+body { 
+margin: 0;
+padding: 0; 
+background: #11263f;
+color: #ffffff;
+line-height: 28px;
+font-size: 20px;
+font-weight: normal;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+a { color: #00ffb3; text-decoration: none; }
+a:hover { color: #cbff67; text-decoration: underline; }
+a:visited { color: #f069c2; }
+
+#wrap { 
+margin: 0 auto;
+width: 100%;
+max-width: 600px;
+}
+
+#landwrap { 
+margin: 0 auto;
+width: 100%;
+max-width: 600px;
+}
+
+#header {
+height: 140px;
+}
+#header h1 {
+padding: 35px 0 0 0;
+margin: 0;
+font-weight: bold;
+color: #ff9637;
+font-size: 50px;
+line-height: 90px;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+#content h2 {
+padding-top: 0px;
+font-weight: bold;
+font-size: 30px;
+font-family: Helvetica, Arial, sans-serif;
+color: #ff9637;
+line-height: 34px;
+}
+#content ul {
+line-height: 34px;
+}
+
+#footer { 
+background: #0d1e32;
+color: #295287;
+padding: 20px 30px;
+text-align: center;
+}
+
+#landicon {
+background: url(/img/quijola-icon.png) no-repeat center center;
+height: 600px;
+width: 600px;
+}
+
+.left { float: left; }
+.right { float: right; }
+.clear { clear: both; }
